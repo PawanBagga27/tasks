@@ -29,6 +29,6 @@ for ($i=1; $i <= $var ; $i++) {
 	}
 	}	
 }
-task_function(100); 
+task_function(200);  
 
 ?>
