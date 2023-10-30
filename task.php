@@ -1,6 +1,6 @@
 <?php
 
-function task_function_name_change($var)
+function again_task_function_name_change($var)
 {
 for ($i=1; $i <= $var ; $i++) {
 	switch ($i) {
@@ -29,5 +29,5 @@ for ($i=1; $i <= $var ; $i++) {
 	}
 	}	
 }
-task_function_name_change(200); 
+again_task_function_name_change(200); 
 ?>
