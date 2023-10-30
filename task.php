@@ -1,3 +1,5 @@
+<?php
+
 function task_function($var)
 {
 for ($i=1; $i <= $var ; $i++) {
@@ -28,3 +30,5 @@ for ($i=1; $i <= $var ; $i++) {
 	}	
 }
 task_function(100); 
+
+?>
